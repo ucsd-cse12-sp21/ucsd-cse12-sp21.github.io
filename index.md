@@ -1,13 +1,12 @@
 ---
 layout: page
-title: CSE 12 Winter 2021, B, C &amp; D Sections
+title: CSE 12 Spring 2021, D Section
 doodle: "./doodle.png"
 ---
 
 # Basic Data Structures and Object-Oriented Design
 
 <a target="_blank" href="https://gregmiranda.com">Greg Miranda</a> (Instructor)
-<a target="_blank" href="https://sites.google.com/a/eng.ucsd.edu/paul-yj-cao/">Paul Cao</a> (Instructor)
 
 This course focuses on two main topics: The basics of organizing data for
 efficient computation, and the design of programs that use collections,
@@ -41,17 +40,11 @@ You can visit the lectures via Zoom links provided in Canvas.
 <table class="table table-striped">
 <thead>
   <tr>
-    <th>Section</th><th>Instructor</th><th>Time</th><th>Location</th>
+    <th>Section</th><th>Time</th><th>Location</th>
   </tr>
 </thead>
 <tr>
-  <td>B00 </td><td>Paul Cao</td><td>MWF 8am - 8:50am </td><td>Zoom</td>
-</tr>
-<tr>
-  <td>C00 </td><td>Greg Miranda</td><td>MWF 11am - 11:50am </td><td>Zoom</td>
-</tr>
-<tr>
-  <td>D00 </td><td>Greg Miranda</td><td>MWF 12pm - 12:50pm </td><td>Zoom</td>
+  <td>D00 </td><td>MWF 12pm - 12:50pm </td><td>Zoom</td>
 </tr>
 </table>
 
@@ -70,16 +63,7 @@ Zoom links for the discussion sections will be posted in Canvas.
   </tr>
 </thead>
 <tr>
-  <td>B01 </td><td>Tu 9am - 9:50am </td><td>Zoom</td>
-</tr>
-<tr>
-  <td>B02 </td><td>Tu 10am - 10:50am </td><td>Zoom</td>
-</tr>
-<tr>
-  <td>C01 </td><td>Tu 11am - 11:50am </td><td>Zoom</td>
-</tr>
-<tr>
-  <td>D01 </td><td>Tu 12pm - 12:50pm </td><td>Zoom</td>
+  <td>C01 </td><td>F 1pm - 1:50pm </td><td>Zoom</td>
 </tr>
 </table>
 
@@ -90,7 +74,9 @@ The schedule below outlines topics, due dates, and links to assignments. If you 
 You are responsible for checking this schedule and
 completing work by the deadlines given, which are always at 11:59pm local San Diego time on the listed date.
 
-<iframe width="100%" height="800px" style="border: none; border-top: 1px solid grey; border-spacing: 2px"  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRpDLGr2ol9Im-2QRexErai5l4FMzqJHZ7aaP6DHkVxbsIku3Qqhaklv5EUxOwC-DdRPXg48krDEgGb/pubhtml?gid=594704517&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="100%" height="800px" style="border: none; border-top: 1px solid grey; border-spacing: 2px"  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRcMg6_V0OpYalQftwT443gDfcaIGb1mCydDs3k31ZE24RaKlXRE8ReP7VfU4XK9i22tz0KwE0b7imy/pubhtml?gid=594704517&single=true&amp;widget=true&amp;headers=false"></iframe>
+
+
 
 ## <a id="staff">Staff</a>
 
@@ -147,7 +133,7 @@ There is no required textbook for the course.
 There is a ZyBook available that has been used in the past. You can purchase a subscription and use it at your convenience; it serves as a useful reference and is organized in the order material is presented in this course, and there will be links to relevant ZyBooks sections in with the course schedule. There is also a significant amount of reference material at the end of the book for review of Java concepts. To get access to the book:
 
 1. Sign in or create an account at <a href="http://learn.zybooks.com">learn.zybooks.com</a>
-2. Enter zyBook code: UCSDCSE12Winter2021
+2. Enter zyBook code: UCSDCSE12MirandaSpring2021
 3. Subscribe
 
 If you cannot afford the book or have questions about using your financial aid, please see this page: <a  target="_blank" href="https://zybooks.zendesk.com/hc/en-us/articles/360007439574-Can-I-pay-using-my-financial-aid-">https://zybooks.zendesk.com/hc/en-us/articles/360007439574-Can-I-pay-using-my-financial-aid-</a>
@@ -419,7 +405,7 @@ Gradescope's interface.
 
 Each lecture will come with an associated quiz. Completing the quiz before the next lecture section with at least half of the answers correct gains engagement credit. You can also get engagement credit by submitting various surveys and other small engagement tasks we may ask of you throughout the quarter.
 
-You need to get credit for 80% (ex: 28 out of 35 total) quizzes, surveys, or tasks for full engagement credit.
+You need to get credit for 80% (ex: 29 out of 36 total) quizzes, surveys, or tasks for full engagement credit.
 
 Reading quizzes are **open to collaboration**, feel free to discuss them with your classmates!
 
@@ -427,13 +413,13 @@ Reading quizzes are **open to collaboration**, feel free to discuss them with yo
 
 There will be two midterm exams during the quarter, held remotely during
 
-* Week 4 - **Friday 1/29/2021**
-* Week 8 - **Friday 2/26/2021**
+* Week 4 - **Friday 4/23/2021**
+* Week 8 - **Friday 5/21/2021**
 
 The final exam
 
-* will be released - **Saturday, March 13 at 8am**
-* and due by - **Monday, March 15 at 11:59pm**
+* will be released - **Monday, June 7 at 8am**
+* and due by - **Wednesday, June 9 at 11:59pm**
 
 Exams will be held asynchronously, meaning you can take them any time within the start and end time, usually a 24 hours period. They must be completed in one sitting. All work on exams is to be done on your own and is open book and open notes. Any form of collaboration on the exams will lead to AI violations. You may access your compiler and the internet for the exams, however, no sharing answers on any site, including Piazza. There will be no make up exams conducted.
 
@@ -467,7 +453,7 @@ policies](https://senate.ucsd.edu/operating-procedures/educational-policies/cour
 
 <a id="p:community"></a>
 ### The CSE 12 Community
-CSE 12 is a large course: there are over 40 people on the instructional team and over 550 students.  We are all here because we are excited about Computer Science and want to ensure a productive, interesting, and useful quarter.
+CSE 12 is a large course: there are 10+ people on the instructional team and over 150 students.  We are all here because we are excited about Computer Science and want to ensure a productive, interesting, and useful quarter.
 
 At UC San Diego, we agree to hold ourselves to the <a href="https://ucsd.edu/about/principles.html" target="_blank">Principles of Community</a> of respect, inclusion, and integrity.  This translates to all our interactions in this course, and beyond.
 

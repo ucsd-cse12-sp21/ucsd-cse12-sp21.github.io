@@ -82,11 +82,7 @@ completing work by the deadlines given, which are always at 11:59pm local San Di
 
 We have a large instructional staff to help with your learning, and a few kinds of help sessions you can attend.
 
-The first is **office hours**, held by the TA and instructor. Office hours are a great place for any kind of question about the course, from help with your assignment to clarifications about material in lecture to questions beyond what we cover in the course. 
-
-The Zoom links to office hours will be posted in Canvas. When you join the meeting, you will be placed into a waiting room until the TA or instructor admits you to the meeting. 
-
-The second is **open lab hours** where tutors give one-on-one help with programming tasks and course content. For these sessions, you should submit a ticket on https://autograder.ucsd.edu to request help. 
+The first is **open lab hours** where TAs and tutors give one-on-one help with programming tasks and course content. For these sessions, you should submit a ticket on https://autograder.ucsd.edu to request help. 
 
 * Give a meaningful question or problem statement in your ticket.
 * Be prepared! You should be ready to reproduce the issue you’re having, have a test case that doesn’t produce the right output, show them a drawing of the situation you’re confused about, etc.
@@ -97,11 +93,11 @@ Expect to have about 5 minutes with a tutor (or TA or instructor): you probably 
 
 The student procedures for open lab hours can be accessed <a href="https://docs.google.com/document/d/1JpgsHIsVqoligF8AE3uLoACkSb1RRqxQy2FJX8ivDhU/edit?usp=sharing">here</a>.
 
-Below is the calendar for office hours and open lab hours.
+Below is the calendar for open lab hours.
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_g5e3n07b46fdo7v9s065enf588%40group.calendar.google.com&ctz=America%2FLos_Angeles&amp;src=Y18wcmxsaW8yOTgzcnZyazIzbDZvNDJrOTlpc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23EF6C00&amp;color=%230B8043&amp;mode=WEEK&amp;showTz=1&amp;showCalendars=0&amp;showPrint=0&amp;showNav=1&amp;showTabs=1" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-The third is **through Piazza**. Online discussion and Q&A for the class will be available on Piazza. Important announcements from the course team will be pinned at the top of your feed. When you set up your account, you can select the frequency for email notifications of messages and discussions on Piazza.
+The second is **through Piazza**. Online discussion and Q&A for the class will be available on Piazza. Important announcements from the course team will be pinned at the top of your feed. When you set up your account, you can select the frequency for email notifications of messages and discussions on Piazza.
 
 For each programming assignment, we’ll make a frequently-asked questions discussion on Piazza. You should refer to that during the assignment if you get stuck or have questions come up; we’ll use it to aggregate common issues. You can feel free to comment publicly on those discussions, but do be conscious that other students can see what you post, so posting solution code for a project or an answer for a homework is an academic integrity violation.
 
